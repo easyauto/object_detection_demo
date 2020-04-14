@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>05.jpg</filename>
+	<path>/Users/isaklovold/StudioProjects/object_detection_demo/data/raw/05.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>358</ymin>
+			<xmax>429</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>
